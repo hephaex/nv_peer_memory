@@ -16,7 +16,6 @@ This capability is supported with Mellanox ConnectX-3 VPI or Connect-IB InfiniBa
 
 This README describes the required steps to completing the installation for the NVIDIA peer memory client with Mellanox OFED.
 
-
 ===============================================================================
 Installation
 ===============================================================================
